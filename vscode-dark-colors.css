@@ -37,30 +37,129 @@
   background-color: #d4d4d4ff;
 }
 
-.meta.embedded, .source.groovy.embedded {
-  color: #D4D4D4;
+.meta.embedded, .source.groovy.embedded, .java.import {
+  color: #d4d4d4;
+}
+
+.emphasis {
+	font-style: italic;
+}
+
+.strong {
+	font-weight: bold;
+}
+
+.header {
+	color: #000080;
 }
 
 .comment {
   color: #608b4e;
 }
 
-/* Color info exported from http://color-themes.com/?view=theme&id=563a1a7680b4acf11273ae92 */
-.vscode2013import {
-  color: #000080;
-  color: #4EC9B0;
-  color: #569cd6;
-  color: #608b4e;
-  color: #646695;
-  color: #6796e6;
-  color: #808080;
-  color: #9cdcfe;
+.entity, .this.self {
+	color: #569cd6;
+}
+
+.object-literal-key {
+	color: #9cdcfe;
+}
+
+.entity.attribute-name, .meta {
+	color: #d7ba7d;
+}
+
+.keyword {
+  color: #d4d4d4;
+}
+
+.invalid, .token.error-token {
+	color: #f44747;
+}
+
+.constant.numeric, .markup {
   color: #b5cea8;
+}
+
+.constant {
+	color: #569cd6;
+	color: #646695;
+}
+
+.markup {
+  text-decoration: underline;
+  font-weight: bold;
+  color: #569cd6;
+}
+
+.regexp.group, .css-property-value {
+  color: #ce9178;
+}
+
+.beginning {
+  color: #608b4e;
+}
+
+.brackets, .punctuation {
+  color: #808080;
+}
+
+.string, .character-class.regexp {
+  color: #d16969;
+}
+
+.token.debug-token {
+  color: #b267e6;
+}
+
+.token.warn-token {
+  color: #cd9731;
+}
+
+.token.info-token {
+  color: #6796e6;
+}
+
+.keyword.regexp,
+.function-declaration {
+  color: #DCDCAA;
+}
+
+.keyword-control {
   color: #C586C0;
+}
+
+.type-declaration, .reference {
+  color: #4EC9B0;
+}
+
+/* All colors combined */
+.all-colors {
+  color: #d4d4d4;
+  color: #d4d4d4ff;
+  color: #bbbbbb;
+  color: #808080;
+  color: #383b3d;
+  color: #404040;
+  color: #3a3d41;
+  color: #add6ff26;
+  color: #1e1e1e;
+  color: #1e1e1eff;
+  color: #9cdcfe;
+  color: #6796e6;
+  color: #569cd6;
+  color: #007acc;
+  color: #646695;
+  color: #000080;
+  color: #608b4e;
+  color: #4EC9B0;
+  color: #b5cea8;
+  color: #DCDCAA;
+  color: #d7ba7d;
+  color: #cd9731;
   color: #ce9178;
   color: #d16969;
-  color: #d4d4d4;
-  color: #d7ba7d;
-  color: #DCDCAA;
   color: #f44747;
+  color: #C586C0;
+  color: #b267e6;
 }
