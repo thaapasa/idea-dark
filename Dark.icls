@@ -1,10 +1,10 @@
 <scheme name="Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-03-08T12:38:56</property>
+    <property name="created">2018-03-08T13:19:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-08T12:38:57</property>
+    <property name="modified">2018-03-08T13:19:54</property>
     <property name="originalScheme">Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -196,6 +196,22 @@
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b5cea8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="C_FN_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="b267e6" />
+      </value>
+    </option>
+    <option name="C_FORM_COMMENT">
+      <value>
+        <option name="BACKGROUND" value="383b3d" />
+      </value>
+    </option>
+    <option name="C_LET_BINDING">
+      <value>
+        <option name="FOREGROUND" value="d16969" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -469,8 +485,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="9cd0cb" />
-        <option name="BACKGROUND" value="364241" />
+        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="BACKGROUND" value="3c4a47" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -487,6 +503,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="6796e6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="287bde" />
@@ -498,6 +520,17 @@
       <value>
         <option name="BACKGROUND" value="113d6f" />
         <option name="ERROR_STRIPE_COLOR" value="113d6f" />
+      </value>
+    </option>
+    <option name="IGNORE.HEADER">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.SECTION">
+      <value>
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -594,6 +627,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9393cc" />
@@ -636,7 +675,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="808080" />
+        <option name="BACKGROUND" value="383b3d" />
         <option name="ERROR_STRIPE_COLOR" value="d7ba7d" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
