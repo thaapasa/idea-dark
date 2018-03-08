@@ -1,15 +1,21 @@
 <scheme name="Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-03-07T13:23:44</property>
+    <property name="created">2018-03-08T12:38:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-07T13:23:46</property>
+    <property name="modified">2018-03-08T12:38:57</property>
     <property name="originalScheme">Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -54,7 +60,7 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cc9393" />
+        <option name="FOREGROUND" value="d7ba7d" />
       </value>
     </option>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
@@ -201,7 +207,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="728a92" />
+        <option name="FOREGROUND" value="608b4e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -245,12 +251,18 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="9393cc" />
+        <option name="FOREGROUND" value="c586c0" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="cc9393" />
+        <option name="FOREGROUND" value="4ec9b0" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -271,7 +283,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="dcdcdc" />
+        <option name="FOREGROUND" value="dcdcaa" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -282,7 +294,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="dcdcdc" />
+        <option name="FOREGROUND" value="9cdcfe" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -298,13 +310,13 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="b8d7a3" />
+        <option name="FOREGROUND" value="b5cea8" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="c8c8c8" />
+        <option name="FOREGROUND" value="d16969" />
         <option name="EFFECT_COLOR" value="c8c8c8" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -342,6 +354,11 @@
         <option name="FOREGROUND" value="dcdcdc" />
       </value>
     </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="9cdcfe" />
+      </value>
+    </option>
     <option name="DEFAULT_PARENTHS">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -366,7 +383,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="d69d85" />
+        <option name="FOREGROUND" value="4ec9b0" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -381,7 +398,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="b5cea8" />
+        <option name="FOREGROUND" value="569cd6" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -429,7 +446,7 @@
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
-        <option name="BACKGROUND" value="5e5339" />
+        <option name="BACKGROUND" value="737157" />
       </value>
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
@@ -525,6 +542,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="569cd6" />
@@ -588,7 +606,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="f5f4f0" />
+        <option name="FOREGROUND" value="d4d4d4" />
         <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>

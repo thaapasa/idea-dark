@@ -1,4 +1,5 @@
 # idea-dark
+
 Dark color scheme for IDEA
 
 Based on Visual Studio Code Default Dark+ color theme, and IDEA color scheme
