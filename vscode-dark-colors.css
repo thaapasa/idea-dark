@@ -1,4 +1,52 @@
-.foo {
+/* Colors exported from VSCode */
+
+/* Colors */
+.list.dropBackground {
+  background-color: #383b3d;
+}
+
+.editor {
+  background-color: #1e1e1e;
+  color: #d4d4d4;
+}
+
+.editor.inactiveSelection {
+  background-color: #3a3d41;
+}
+
+.editor.selectionHighlight {
+  background-color: #add6ff26;
+}
+
+.editorIndentGuide {
+  background-color: #404040;
+}
+
+.activityBarBadge {
+  background-color: #007acc;
+}
+
+.sideBarTitle {
+  color: #bbbbbb;
+}
+
+/* Token colors */
+
+.default {
+  color: #1e1e1eff;
+  background-color: #d4d4d4ff;
+}
+
+.meta.embedded, .source.groovy.embedded {
+  color: #D4D4D4;
+}
+
+.comment {
+  color: #608b4e;
+}
+
+/* Color info exported from http://color-themes.com/?view=theme&id=563a1a7680b4acf11273ae92 */
+.vscode2013import {
   color: #000080;
   color: #4EC9B0;
   color: #569cd6;
