@@ -1,10 +1,10 @@
 <scheme name="Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-03-09T14:34:34</property>
+    <property name="created">2018-03-14T09:20:28</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-09T14:34:38</property>
+    <property name="modified">2018-03-14T09:20:29</property>
     <property name="originalScheme">Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -18,7 +18,7 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="295622" />
+    <option name="ADDED_LINES_COLOR" value="577b0c" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="f0f0f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1e1e1e" />
@@ -41,7 +41,7 @@
     <option name="INDENT_GUIDE" value="303030" />
     <option name="LINE_NUMBERS_COLOR" value="595959" />
     <option name="METHOD_SEPARATORS_COLOR" value="f0f0f" />
-    <option name="MODIFIED_LINES_COLOR" value="415f69" />
+    <option name="MODIFIED_LINES_COLOR" value="c7d9c" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="dcdcdc" />
@@ -50,6 +50,7 @@
     <option name="SELECTION_FOREGROUND" value="dcdcdc" />
     <option name="TEARLINE_COLOR" value="f0f0f" />
     <option name="WHITESPACES" value="505050" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
