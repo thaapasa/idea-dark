@@ -1,10 +1,10 @@
 <scheme name="Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-03-14T09:20:28</property>
+    <property name="created">2018-04-09T13:04:22</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-14T09:20:29</property>
+    <property name="ideVersion">2017.3.5.0.0</property>
+    <property name="modified">2018-04-09T13:04:23</property>
     <property name="originalScheme">Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -577,9 +577,21 @@
       </value>
     </option>
     <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_SMART_CAST_RECEIVER">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="BACKGROUND" value="383b3d" />
+      </value>
+    </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
       <value>
         <option name="BACKGROUND" value="3a3d41" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="BACKGROUND" value="383b3d" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
